@@ -300,7 +300,7 @@ h6 { font-size: 16px;}
 	display: flex;
 	justify-content: space-evenly;
 	background-color: var(--previewShadow);
-	width:500px;
+	width:900px;
 }
 
 .social-links{
